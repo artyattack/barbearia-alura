@@ -12,6 +12,9 @@ background: #CCCCCC;
     text-align: center;
 }
 
+h2{
+}
+
 
  p {
 
@@ -28,3 +31,13 @@ em strong {
 
 
 #missao
+
+.itens {
+
+   font-style: italic;
+}
+
+.beneficios {
+
+   background: #FFFFFF;
+}
